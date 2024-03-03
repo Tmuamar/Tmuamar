@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thomas Muamar, and I'm a Project Specialist from California.</p>
+<p align="left">My name is Thomas Muamar, and I'm currently working as a project specialist at labcorp from California.</p>
 
 ###
 
